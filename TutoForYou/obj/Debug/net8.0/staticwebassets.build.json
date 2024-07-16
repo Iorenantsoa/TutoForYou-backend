@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "FpXcXCPuUuye9l/IM67wEA8KhlRsMhQHcNMymb1N+bA=",
+  "Source": "TutoForYou",
+  "BasePath": "_content/TutoForYou",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TutoForYou\\wwwroot",
+      "Source": "TutoForYou",
+      "ContentRoot": "C:\\Users\\Iorenantsoa Cédric\\source\\repos\\TutoForYou\\TutoForYou\\wwwroot\\",
+      "BasePath": "_content/TutoForYou",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

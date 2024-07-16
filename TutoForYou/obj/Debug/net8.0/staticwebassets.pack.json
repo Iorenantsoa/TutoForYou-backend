@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Iorenantsoa Cédric\\source\\repos\\TutoForYou\\TutoForYou\\wwwroot\\html\\index.html",
+      "PackagePath": "staticwebassets\\html\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TutoForYou.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TutoForYou.props",
+      "PackagePath": "build\\TutoForYou.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TutoForYou.props",
+      "PackagePath": "buildMultiTargeting\\TutoForYou.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TutoForYou.props",
+      "PackagePath": "buildTransitive\\TutoForYou.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
